@@ -1,4 +1,4 @@
-# 5 Lições de Liderança de um Comandante da Marinha que Vão Transformar Sua Equipe
+# COMUNIQUE O OBJETIVO E O SENTIDO 
 
 Você já olhou para sua equipe e sentiu que algo estava faltando? As pessoas chegam, cumprem suas tarefas, batem o ponto e vão embora. O trabalho é feito, mas a energia, a proatividade e a paixão parecem ter ficado para trás, trancadas nos carros no estacionamento.
 
