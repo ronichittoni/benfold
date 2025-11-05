@@ -1,4 +1,4 @@
-# 5 Lições Contraintuitivas de Liderança de um Comandante da Marinha que Vão Transformar Sua Equipe
+# 5 Lições de Liderança de um Comandante da Marinha que Vão Transformar Sua Equipe
 
 Você já olhou para sua equipe e sentiu que algo estava faltando? As pessoas chegam, cumprem suas tarefas, batem o ponto e vão embora. O trabalho é feito, mas a energia, a proatividade e a paixão parecem ter ficado para trás, trancadas nos carros no estacionamento.
 
@@ -6,7 +6,12 @@ Esse era o cenário a bordo do navio de guerra USS Benfold. Quando seu novo coma
 
 Como ele conseguiu isso? Com uma abordagem de liderança que desafia o senso comum. Neste post, vamos revelar as 5 lições mais impactantes e surpreendentes de sua jornada, prontas para serem aplicadas em qualquer equipe ou empresa.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2206908619&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/governanca-gapd" title="Governança GAPD" target="_blank" style="color: #cccccc; text-decoration: none;">Governança GAPD</a> · <a href="https://soundcloud.com/governanca-gapd/proposito" title="Propósito,_Transparência_e_Feedback_Brutalmente_Honesto__Lições" target="_blank" style="color: #cccccc; text-decoration: none;">Propósito,_Transparência_e_Feedback_Brutalmente_Honesto__Lições</a></div>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2206908619&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+    <a href="https://soundcloud.com/governanca-gapd" title="Governança GAPD" target="_blank" style="color: #cccccc; text-decoration: none;">Governança GAPD</a> · <a href="https://soundcloud.com/governanca-gapd/proposito" title="Propósito,_Transparência_e_Feedback_Brutalmente_Honesto__Lições" target="_blank" style="color: #cccccc; text-decoration: none;">Propósito,_Transparência_e_Feedback_Brutalmente_Honesto__Lições</a>
+  </div>
+</div>
 
 ## Lição 1: Liberdade Gera Disciplina, Não Anarquia
 
@@ -60,7 +65,9 @@ A primeira e mais importante tarefa do comandante foi articular uma meta comum q
 
 > Nós dedicamos a maior parte de nossas vidas ao trabalho. É simplesmente devastador acreditar que essa atividade principal não faz nenhuma diferença. Um propósito claro é o que faz as pessoas trazerem não apenas o corpo, mas também a paixão e o entusiasmo para dentro da empresa.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hoZGEnQP5CY?si=wxe8S1Xrkqv_-Rjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hoZGEnQP5CY?si=wxe8S1Xrkqv_-Rjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ### Conclusão: Qual Barreira Você Pode Remover Hoje?
 
