@@ -1,5 +1,13 @@
 # COMUNIQUE O OBJETIVO E O SENTIDO 
 
+### 💡 Tópicos para Debate (Método Cumbuca)
+
+* Dar mais liberdade e autonomia à equipe *aumenta* a disciplina e a qualidade da entrega, em vez de gerar caos.
+* Uma equipe só atinge a máxima eficiência quando seus membros perdem o medo de criticar *abertamente* as decisões do líder.
+* O sigilo da liderança é um sinal de fraqueza. Líderes que compartilham informação de forma 'excessiva' criam poder coletivo e destroem o medo.
+
+---
+
 Você já olhou para sua equipe e sentiu que algo estava faltando? As pessoas chegam, cumprem suas tarefas, batem o ponto e vão embora. O trabalho é feito, mas a energia, a proatividade e a paixão parecem ter ficado para trás, trancadas nos carros no estacionamento.
 
 Esse era o cenário a bordo do navio de guerra USS Benfold. Quando seu novo comandante assumiu, ele encontrou uma tripulação apática, trabalhando apenas pelo salário. No entanto, em pouco tempo, ele promoveu uma transformação tão radical que o Benfold se tornou o navio mais confiável e eficiente de toda a Marinha americana.
@@ -51,7 +59,7 @@ Liderar, nesse caso, significou lutar contra a burocracia para defender a ideia 
 
 Imagine um funcionário júnior dizendo ao CEO: "Hoje, sua decisão foi péssima e nos fez trabalhar dobrado". No Benfold, isso era rotina. O processo, adaptado do Exército, era chamado de "Análise Pós-Ação" (APA). Após qualquer manobra, a equipe se reunia para criticar abertamente o que deu errado, sem filtros e sem ressentimentos.
 
-O valor dessa prática não estava apenas em aceitar a crítica, mas em criar um diálogo. O comandante queria o feedback para ter duas opções: "reparar o erro ou explicar por que precisava fazer as coisas daquela maneira". Essa abertura construiu um entendimento mútuo e garantiu que a equipe jamais cometesse o mesmo erro duas vezes.
+O valor dessa prática não estava apenas em aceitar a crítica, but em criar um diálogo. O comandante queria o feedback para ter duas opções: "reparar o erro ou explicar por que precisava fazer as coisas daquela maneira". Essa abertura construiu um entendimento mútuo e garantiu que a equipe jamais cometesse o mesmo erro duas vezes.
 
 Quando as pessoas não têm medo de apontar falhas, a organização se torna impiedosamente eficiente, aprendendo e melhorando a uma velocidade impressionante.
 
@@ -59,7 +67,7 @@ Quando as pessoas não têm medo de apontar falhas, a organização se torna imp
 
 ## Lição 5: Tudo Começa com um Propósito, Não com um Salário
 
-Esta é a lição fundamental que tornou todas as outras possíveis. O problema original do Benfold não era falta de competência, mas sim a ausência de uma "visão apaixonante do trabalho". As pessoas estavam lá apenas pelo dinheiro.
+Esta é a lição fundamental que tornou todas as outras possíveis. O problema original do Benfold não era falta de competência, but sim a ausência de uma "visão apaixonante do trabalho". As pessoas estavam lá apenas pelo dinheiro.
 
 A primeira e mais importante tarefa do comandante foi articular uma meta comum que inspirasse a todos, uma razão para acreditar que o trabalho deles era importante. Foi essa visão compartilhada que transformou um navio apático em "uma combinação de uma escola de elite, uma igreja viva, um time de futebol vencedor e... o navio mais disponível e confiável de toda a Marinha americana".
 
