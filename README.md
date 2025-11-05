@@ -6,6 +6,8 @@ Esse era o cenário a bordo do navio de guerra USS Benfold. Quando seu novo coma
 
 Como ele conseguiu isso? Com uma abordagem de liderança que desafia o senso comum. Neste post, vamos revelar as 5 lições mais impactantes e surpreendentes de sua jornada, prontas para serem aplicadas em qualquer equipe ou empresa.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2206908619&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/governanca-gapd" title="Governança GAPD" target="_blank" style="color: #cccccc; text-decoration: none;">Governança GAPD</a> · <a href="https://soundcloud.com/governanca-gapd/proposito" title="Propósito,_Transparência_e_Feedback_Brutalmente_Honesto__Lições" target="_blank" style="color: #cccccc; text-decoration: none;">Propósito,_Transparência_e_Feedback_Brutalmente_Honesto__Lições</a></div>
+
 ## Lição 1: Liberdade Gera Disciplina, Não Anarquia
 
 Muitos líderes acreditam que mais controle resulta em mais disciplina. A lógica parece simples: se você soltar as rédeas, o caos se instala. O comandante do Benfold pensava assim, mas decidiu testar o oposto. Ele deu mais autonomia e liberdade para sua equipe pensar e agir por conta própria.
@@ -57,6 +59,8 @@ Esta é a lição fundamental que tornou todas as outras possíveis. O problema 
 A primeira e mais importante tarefa do comandante foi articular uma meta comum que inspirasse a todos, uma razão para acreditar que o trabalho deles era importante. Foi essa visão compartilhada que transformou um navio apático em "uma combinação de uma escola de elite, uma igreja viva, um time de futebol vencedor e... o navio mais disponível e confiável de toda a Marinha americana".
 
 > Nós dedicamos a maior parte de nossas vidas ao trabalho. É simplesmente devastador acreditar que essa atividade principal não faz nenhuma diferença. Um propósito claro é o que faz as pessoas trazerem não apenas o corpo, mas também a paixão e o entusiasmo para dentro da empresa.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hoZGEnQP5CY?si=wxe8S1Xrkqv_-Rjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Conclusão: Qual Barreira Você Pode Remover Hoje?
 
