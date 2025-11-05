@@ -1,6 +1,6 @@
 # COMUNIQUE O OBJETIVO E O SENTIDO 
 
-### 💡 Tópicos para Debate (Método Cumbuca)
+### Tópicos para Cumbuca
 
 * Dar mais liberdade e autonomia à equipe *aumenta* a disciplina e a qualidade da entrega, em vez de gerar caos.
 * Uma equipe só atinge a máxima eficiência quando seus membros perdem o medo de criticar *abertamente* as decisões do líder.
